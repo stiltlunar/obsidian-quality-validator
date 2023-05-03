@@ -30,8 +30,4 @@ Obsidian Quality Validator plugin lets you define levels of quality for your not
 - Embed quality information right in your note
 - Utilize callouts to customize how information is displayed
 
-## Ideas
-
-- Use natural language processing to assess and suggest information
-
 ## Examples
