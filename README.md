@@ -3,10 +3,8 @@
 Obsidian Quality Validator plugin lets you define levels of quality for your notes as well as validating metadata on your note. First define a list of note attributes or metadata and then see how your notes stack up.
 
 ## Installation
----
 
 ## Features
----
 
 ### Schema Validation
 
@@ -33,9 +31,7 @@ Obsidian Quality Validator plugin lets you define levels of quality for your not
 - Utilize callouts to customize how information is displayed
 
 ## Ideas
----
 
 - Use natural language processing to assess and suggest information
 
 ## Examples
----
